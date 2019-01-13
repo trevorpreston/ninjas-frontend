@@ -1,6 +1,10 @@
 const minAttack = 0;
 const maxAttack = 60;
 
+const immunity = () => {
+  trevorsHP = 1000;
+}
+
 let trevorsHP = 100;
 
 const randomAttack = () => {
