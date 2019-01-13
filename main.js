@@ -1,3 +1,3 @@
-[⭐️, ⭐️, ⭐️, ⭐️].forEach( throwingStar => {
+['⭐️', '⭐️', '⭐️', '⭐️'].forEach( throwingStar => {
   console.log(`${throwingStar} hit ninja Trevor!`)
 } )
