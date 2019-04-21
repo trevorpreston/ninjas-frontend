@@ -27,4 +27,5 @@ if (trevorsHP > 0) {
   console.log(`Trevor survived with ${trevorsHP} health!!`)
 }
 
+console.log('updated');
 console.log('signing out!!!');
